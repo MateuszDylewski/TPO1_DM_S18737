@@ -1,4 +1,5 @@
-1 Tresc zadania
+Zadanie realizowane na przedmiot TPO w PJATK. Treść zadania:
+
 Napisać aplikację, udostępniającą GUI, w którym po podanu miasta i nazwy kraju pokazywane są:
 Informacje o aktualnej pogodzie w tym mieście. Informacje o kursie wymiany walutu kraju wobec podanej przez uzytkownika waluty. Informacje o kursie NBP złotego wobec tej waluty podanego kraju. Strona wiki z opisem miasta.
 
